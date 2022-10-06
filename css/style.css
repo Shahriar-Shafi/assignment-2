@@ -1,0 +1,15 @@
+.contact-box{
+    height: 500px;
+    background-color: aqua;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    width: 15%;
+    padding-top: 10px;
+    margin-top: 80px;
+}
+.lid img{
+    width: 75%;
+}
