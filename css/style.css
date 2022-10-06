@@ -1,9 +1,27 @@
+.highlight{
+    color: #fa804c;
+}
 .contact-box{
     height: 500px;
     background-color: aqua;
 }
+.navbar img{
+    width: 175px;
+}
+.buy-button{
+    margin-left: 170px;
+    background-image: linear-gradient(120deg, #3645c4, #727ee7 );
+    color: white;
+}
+.no-footer{
+    border: 0;
+}
 .logo{
-    float: left;
+    border: 5px solid black;
+}
+.logo-box{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
 }
 .logo img{
     width: 15%;
