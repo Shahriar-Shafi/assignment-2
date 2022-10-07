@@ -16,6 +16,15 @@
 .no-footer{
     border: 0;
 }
+.sign-up{
+    color: white;
+    height: 500px;
+    background-image: url(https://wallpaperaccess.com/full/1597754.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 500px;
+
+}
 .logo{
     border: 5px solid black;
 }
